@@ -1,7 +1,24 @@
 h2 {
-   color: pink; 
+   color: red; 
 }
 
 b {
     color: gray;
+}
+
+.stats {
+    background-color: pink;
+
+}
+
+.container{
+    display: flex;
+}
+
+.containee{
+    flex: 1;
+}
+
+.picture{
+    padding
 }
